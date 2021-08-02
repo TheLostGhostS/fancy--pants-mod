@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fancy pants.png"><SubTexture name="fancy pants down0000" x="0" y="0" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants down0001" x="1047" y="0" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0000" x="2094" y="0" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0001" x="3141" y="0" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0002" x="0" y="1262" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0003" x="1047" y="1262" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0004" x="2094" y="1262" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0005" x="3141" y="1262" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants idle dance0006" x="0" y="2524" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants left0000" x="1047" y="2524" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants left0001" x="2094" y="2524" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants right0000" x="3141" y="2524" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants right0001" x="0" y="3786" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants up0000" x="1047" y="3786" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+<SubTexture name="fancy pants up0001" x="2094" y="3786" width="1047" height="1262" frameX="0" frameY="0" frameWidth="1047" frameHeight="1262" />
+</TextureAtlas>
